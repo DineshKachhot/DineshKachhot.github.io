@@ -4,8 +4,8 @@ permalink:           /:year/:month/:day/:title/
 
 # Setup
 theme: minima
-title:               Swift with Majid
-url:                 https://swiftwithmajid.com
+title:               Dinesh Kachhot
+url:                 https://dineshkachhot.github.io
 paginate:            10
 baseurl:             ""
 analytics_id:        UA-18491817-18
@@ -19,9 +19,9 @@ sass:
 
 # About/contact
 author:
-  name:              Majid Jabrayilov
-  url:               https://twitter.com/mecid
-  email:             cmecid@gmail.com
+  name:              Dinesh Kachhot
+  url:               https://twitter.com/DineshKachhot
+  email:             dinesh.kachhot@gmail.com
 
 # Gems
 plugins:
