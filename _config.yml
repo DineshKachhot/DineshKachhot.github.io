@@ -4,7 +4,7 @@ permalink:           /:year/:month/:day/:title/
 
 # Setup
 theme: minima
-title:               Dinesh Kachhot
+title:               Dinesh Codev
 url:                 https://dineshkachhot.github.io
 paginate:            10
 baseurl:             ""
