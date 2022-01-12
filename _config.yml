@@ -5,7 +5,7 @@ permalink:           /:year/:month/:day/:title/
 # Setup
 theme: minima
 title:               Dinesh Codev
-url:                 https://dineshkachhot.github.io
+url:                 https://dineshcodev.com
 paginate:            10
 baseurl:             ""
 analytics_id:        UA-18491817-18
