@@ -21,7 +21,7 @@ test_job:
     FOO: "bar"
 ```
 
-2. Single like condition
+2. Single like condition:
 ```yaml
 test_job:
   script:
@@ -30,7 +30,7 @@ test_job:
     FOO: "bar"
 ```
 
-3. Mix of both
+3. Mix of both:
 ```yaml
 test_job:
   script:
